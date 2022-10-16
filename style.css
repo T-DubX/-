@@ -18,7 +18,7 @@
   background-image: url(./cloud-in-blue-sky\ 1.png);
   background-size: cover;
   border-radius: 30px;
-  margin-left: 30px;
+  margin: 0 auto;
 }
 .content-wrapper {
   margin-top: 20px;
